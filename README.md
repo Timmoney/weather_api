@@ -8,14 +8,15 @@ The endpoint API that fetches the weather information for 臺北市，新北市�
 
 ## Getting Started
 1. Go to root folder directory in command prompt (same level as this one)
-2. npm start 
-3. open your browser type
+2. npm i (to install all the dependency packages)
+3. npm start 
+4. open your browser type
  
     http://localhost:3000/api/taipei_weather&api_key=123456  -> 臺北市
     http://localhost:3000/api/new_taipei_weather&api_key=123456  -> 新北市
     http://localhost:3000/api/taoyuan_weather&api_key=123456  -> 桃園市
 
-4. a json file contains weather informaion will return to the body
+5. a json file contains weather informaion will return to the body
 
 
 ## Others
