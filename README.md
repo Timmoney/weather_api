@@ -5,7 +5,6 @@ Weather API
 ## Description
 
 The endpoint API that fetches the weather information for 臺北市，新北市，桃園市 hourly.
-You need to replace credential using .env file or ask me to send you a demo .env file.
 
 ## Getting Started
 1. Go to root folder directory in command prompt (same level as this one)
